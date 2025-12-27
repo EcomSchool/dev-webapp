@@ -1,0 +1,9 @@
+# config.yaml
+database:
+  host: localhost
+  username: root
+  password: "MyDatabaseP@ssw0rd2024"
+  
+api:
+  stripe_key: "sk_test_4eC39HqLyjWDarjtT1zdp7dc"
+  mailgun_key: "key-1234567890abcdefghijklmnopqrstuv"
